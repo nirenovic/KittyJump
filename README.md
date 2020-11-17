@@ -1,3 +1,3 @@
 # Platformer Project
 
-![Alt Text](https://giphy.com/gifs/vwU9LCJrO0Qy2TarTF.gif)
+![Alt Text](https://media.giphy.com/media/vwU9LCJrO0Qy2TarTF/source.gif)
